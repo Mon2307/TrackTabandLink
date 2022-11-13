@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Link tracker",
+    "description": "Saves notes, links and time!",
+    "permissions": ["tabs"],
+    "action": {
+        "default_popup": "linkSaver.html",
+        "default_icon": "icon.png"
+    }
+}
